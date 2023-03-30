@@ -1,6 +1,6 @@
 <img
       align="left"
-      src="https://raw.githubusercontent.com/afefm/README.md/main/github-bio.gif"
+      src="https://raw.githubusercontent.com/afefm/afefm/main/github-bio.gif"
       alt="Github bio"
       style="max-width: 100%"
  />
@@ -123,7 +123,8 @@ These are some of languages and tools that I use or I used before :
         />
       </a>
 </p>
----
+
+***
 
 &nbsp;
 

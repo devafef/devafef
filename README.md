@@ -1,6 +1,6 @@
 <img
       align="left"
-      src="https://raw.githubusercontent.com/afefm/afefm/main/github-bio.gif"
+      src="https://raw.githubusercontent.com/afefm/afefm/main/github%20bio.png"
       alt="Github bio"
       style="max-width: 100%"
  />

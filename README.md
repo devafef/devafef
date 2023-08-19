@@ -1,6 +1,6 @@
 <img
       align="left"
-      src="https://raw.githubusercontent.com/afefm/afefm/main/github%20bio.png"
+      src="https://raw.githubusercontent.com/devafef/devafef/main/github%20bio.png"
       alt="Github bio"
       style="max-width: 100%"
  />
@@ -46,30 +46,10 @@ These are some of languages and tools that I use or I used before :
           height="40"
         />
       </a>
-      <a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
-          width="40"
-          height="40"
-        />
-      </a>
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
           alt="sass"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
           width="40"
           height="40"
         />
@@ -124,29 +104,22 @@ These are some of languages and tools that I use or I used before :
       </a>
 </p>
 
-***
+---
 
 &nbsp;
 
 <p align="center">
       <img  align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=afefm&show_icons=true&locale=en&layout=compact"
-        alt="afefm"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=devafef&show_icons=true&locale=en&layout=compact"
+        alt="devafef"
       />
 </p>
 
 <p align="center">
       &nbsp;
       <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=afefm&show_icons=true&locale=en"
-        alt="afefm"
-      />
-</p>
-<p align="center">
-      &nbsp;
-      <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=afefm&"
-        alt="afefm"
+        src="https://github-readme-stats.vercel.app/api?username=devafef&show_icons=true&locale=en"
+        alt="devafef"
       />
 </p>
 
@@ -154,28 +127,36 @@ These are some of languages and tools that I use or I used before :
 
 <p align="center"><em>Connect with me:</em></p>
 <p align="center">
-    <a href="https://twitter.com/afefm_" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-          alt="afefm_"
-          height="30"
-          width="40"
-    /></a>
+    <a href="https://twitter.com/devafef" target="blank"
+        ><img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devafef" 
+            height="30" 
+            width="40" 
+        /></a>
     <a href="https://linkedin.com/in/afef-mbarki-86074846" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="afef-mbarki-86074846"
-          height="30"
-          width="40"
-      /></a>
+        ><img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afef-mbarki-86074846" 
+            height="30" 
+            width="40" 
+        /></a>
+    <a href="https://codepen.io/devafef" target="blank"
+        ><img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devafef" 
+            height="30" 
+            width="40" 
+        /></a>
+     <a href="https://instagram.com/devafef" target="blank"
+        ><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devafef" 
+            height="30" 
+            width="40" 
+        /></a>
 </p>
 &nbsp;
 
 <p align="center">
       <img
-        src="https://komarev.com/ghpvc/?username=afefm&label=Profile%20views&color=0e75b6&style=flat"
-        alt="afefm"
+        src="https://komarev.com/ghpvc/?username=devafef&label=Profile%20views&color=0e75b6&style=flat"
+        alt="devafef"
       />
 </p>

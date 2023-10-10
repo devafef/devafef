@@ -156,7 +156,7 @@ These are some of languages and tools that I use or I used before :
 
 <p align="center">
       <img
-        src="https://komarev.com/ghpvc/?username=devafef&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=devafef&label=Profile+views&color=0e75b6&style=flat"
         alt="devafef"
       />
 </p>

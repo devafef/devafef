@@ -156,7 +156,7 @@ These are some of languages and tools that I use or I used before :
 
 <p align="center">
       <img
-        src="https://github-views.deno.dev/api/badge/devafef?label=Profile+views?color=ff69b4?style=flat"
+        src="https://github-views.deno.dev/api/badge/devafef?label=Profile%20views&color=ff69b4&labelColor=0e75b6&style=flat"
         alt="devafef"
       />
 </p>

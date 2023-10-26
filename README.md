@@ -147,10 +147,11 @@ These are some of languages and tools that I use or I used before :
         /></a>
      <a href="https://instagram.com/devafef" target="blank"
         ><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devafef" 
+<!--          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devafef" 
             height="30" 
             width="40" 
         /></a>
+-->
 </p>
 &nbsp;
 
